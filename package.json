@@ -35,8 +35,8 @@
   },
   "homepage": "https://github.com/grantbriston/react-native-map-navigation#readme",
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*",
+    "react": "^18.0.0-rc.3",
+    "react-native": "0.68.2",
     "react-native-maps": ">=0.21.0"
   },
   "dependencies": {
