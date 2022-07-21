@@ -40,9 +40,7 @@
     "react-native-maps": ">=1.0.2"
   },
   "dependencies": {
-    "geolib": "^2.0.24",
-    "prop-types": "^15.6.2",
-    "react-native-optiongroup": "^0.0.7"
+   
   },
   "rnpm": {
     "assets": [
