@@ -35,12 +35,15 @@
   },
   "homepage": "https://github.com/grantbriston/react-native-map-navigation#readme",
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-native": "^0.69",
-    "react-native-maps": ">=1.0.2"
+    "react": "*",
+    "react-native": "*",
+    "react-native-maps": ">=0.21.0"
   },
   "dependencies": {
-   
+    "geolib": "^2.0.24",
+    "prop-types": "^15.6.2",
+    "react-native-optiongroup": "^0.0.7",
+    "expo-location": "~14.2.2"
   },
   "rnpm": {
     "assets": [
