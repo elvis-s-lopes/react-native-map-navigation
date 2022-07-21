@@ -43,7 +43,6 @@
     "geolib": "^2.0.24",
     "prop-types": "^15.6.2",
     "react-native-optiongroup": "^0.0.7",
-    "expo-location": "~14.2.2"
   },
   "rnpm": {
     "assets": [
